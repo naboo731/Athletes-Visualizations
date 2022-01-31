@@ -5,6 +5,7 @@ Imported and analyzed olympic athlete data for correlation between men and women
 # Dependencies 
 * Python
 * Pip installer or Anaconda
+* Jupyter Notebook
 * Pandas
 * NumPy
 * Matplotlib
